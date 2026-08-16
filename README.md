@@ -16,3 +16,4 @@ This project demonstrates the practical application of **Digitalisierungsmanagem
 2. Run the script using Python in your terminal:
    ```bash
    python receipt_generator.py
+("""only think is u shuld put ur ipa code in th code to work""")
